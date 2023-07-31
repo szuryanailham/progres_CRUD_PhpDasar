@@ -1,0 +1,9 @@
+/* membuat thead berwarna */
+
+.img-limit {
+  max-width: 50px;
+  height: auto;
+}
+a {
+  color: white;
+}
